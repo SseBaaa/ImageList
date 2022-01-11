@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\ImageListKomponenta.exe.config
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\ImageListKomponenta.exe
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\bin\Debug\ImageListKomponenta.pdb
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.Form1.resources
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.Properties.Resources.resources
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.exe
+C:\Users\sebas\source\repos\ImageListKomponenta\ImageListKomponenta\obj\Debug\ImageListKomponenta.pdb
